@@ -1,4 +1,3 @@
----
 framework: mocha
 preRun:
      command:
@@ -13,5 +12,4 @@ postMerge:
 postRun:
      command:
         - node --version
-configFile: mocharc.yml
 version: 1.0
